@@ -18,7 +18,7 @@ export default function ProfileScreen() {
               style={{ ...styles.profileImage }}
             />
             <View style={{ marginLeft: 10 }}>
-              <Text style={styles.profileName}>Michael Kevin Adinata</Text>
+              <Text style={styles.profileName}>Dimas Rizky Pratama</Text>
               <View style={{ alignItems: 'center', flexDirection: 'row', }}>
                 <Star color={'rgb(255, 125, 0)'} variant="Linear" size={24} />
                 <Text style={{ ...styles.profileInfo, color: 'rgb(255, 125, 0)', fontWeight: 'bold', paddingLeft: 5, }}>Bos</Text>
